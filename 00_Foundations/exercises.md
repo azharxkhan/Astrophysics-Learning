@@ -1,10 +1,4 @@
-﻿# Foundations Exercises
-
-These exercises help you build confidence with units, vectors, functions, and Newtonian basics. They prepare you for calculus and mechanics.
-
----
-
-## 1. Scientific Notation Exercises
+﻿## 1. Scientific Notation Exercises
 
 ### Exercise 1.1
 Write the following in scientific notation:
