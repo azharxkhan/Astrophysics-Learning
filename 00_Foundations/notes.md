@@ -263,4 +263,3 @@ You should be able to:
 - understand gravitational force in its simple form  
 
 If you are comfortable with all items above, you are ready for **Milestone 2**.
-```
