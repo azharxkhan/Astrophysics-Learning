@@ -1,5 +1,3 @@
-# Foundations - Problem Set 1
-
 ## Problem 1 - Units and orders of magnitude
 1. Express the following in SI units:
    - (a) 1 light year

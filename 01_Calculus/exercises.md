@@ -1,6 +1,4 @@
-﻿# 01_Calculus exercises.md
-
-```markdown
+﻿```markdown
 # Calculus Exercises
 
 These exercises build skill with derivatives, integrals, and basic differential equations.

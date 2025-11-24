@@ -1,6 +1,4 @@
-﻿# 01_Calculus notes.md
-
-```markdown
+﻿```markdown
 # Calculus Notes
 
 This section builds the core mathematical tools you need for mechanics and astrophysics. Calculus describes change. It allows you to study velocity, acceleration, orbits, energy changes, and many physical systems.

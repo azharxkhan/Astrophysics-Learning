@@ -1,5 +1,4 @@
-﻿# 00_Foundations exercises.md
-# Foundations Exercises
+﻿# Foundations Exercises
 
 These exercises help you build confidence with units, vectors, functions, and Newtonian basics. They prepare you for calculus and mechanics.
 

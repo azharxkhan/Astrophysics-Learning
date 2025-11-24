@@ -1,5 +1,4 @@
-﻿# 00_Foundations notes.md
-```markdown
+﻿```markdown
 # Foundations Notes
 
 This section builds the base needed for calculus, mechanics, and astrophysics. It covers scientific notation, units, vectors, functions, and the essential physics that everything else is built on.
